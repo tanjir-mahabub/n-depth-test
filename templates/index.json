@@ -369,6 +369,54 @@
       "settings": {
         "heading": "Welcome to Tanjir Store. Updated at 2:01 pm"
       }
+    },
+    "heading_section_7kJznw": {
+      "type": "heading-section",
+      "name": "Heading Section",
+      "settings": {
+        "heading": "Welcome to Tanjir Store 4:05pm"
+      }
+    },
+    "collection_list_xzCHXX": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_WBcQ88": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_QRafxa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_UzH8ym": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_WBcQ88",
+        "featured_collection_QRafxa",
+        "featured_collection_UzH8ym"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-4",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -381,6 +429,8 @@
     "image_with_text_g83MiT",
     "image_with_text_BCgd8x",
     "image_banner_mGQR6r",
-    "heading_section_cgpdcF"
+    "heading_section_cgpdcF",
+    "heading_section_7kJznw",
+    "collection_list_xzCHXX"
   ]
 }
