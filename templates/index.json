@@ -362,6 +362,13 @@
         "mobile_content_alignment": "center",
         "show_text_below": true
       }
+    },
+    "heading_section_cgpdcF": {
+      "type": "heading-section",
+      "name": "Heading Section",
+      "settings": {
+        "heading": "Welcome to Tanjir Store. Updated at 2:01 pm"
+      }
     }
   },
   "order": [
@@ -373,6 +380,7 @@
     "multicolumn",
     "image_with_text_g83MiT",
     "image_with_text_BCgd8x",
-    "image_banner_mGQR6r"
+    "image_banner_mGQR6r",
+    "heading_section_cgpdcF"
   ]
 }
