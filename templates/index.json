@@ -466,47 +466,13 @@
         "padding_bottom": 36
       }
     },
-    "newsletter_BPCPYw": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_NdcXi8": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our newsletter",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_p7KW74": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
-          }
-        },
-        "email_form_X3dxpk": {
-          "type": "email_form",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading_NdcXi8",
-        "paragraph_p7KW74",
-        "email_form_X3dxpk"
-      ],
-      "name": "t:sections.newsletter.presets.name",
-      "settings": {
-        "color_scheme": "scheme-4",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "contact_form_fKKJLD": {
+    "contact_form_6P7Ugc": {
       "type": "contact-form",
       "name": "t:sections.contact-form.presets.name",
       "settings": {
-        "heading": "Contact form from tanjir dev",
+        "heading": "Contact form Tanjir Dev",
         "heading_size": "h1",
-        "color_scheme": "",
+        "color_scheme": "scheme-5",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -526,7 +492,6 @@
     "heading_section_7kJznw",
     "collection_list_xzCHXX",
     "image_with_text_J9nDwD",
-    "newsletter_BPCPYw",
-    "contact_form_fKKJLD"
+    "contact_form_6P7Ugc"
   ]
 }
