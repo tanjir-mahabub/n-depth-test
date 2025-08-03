@@ -466,6 +466,40 @@
         "padding_bottom": 36
       }
     },
+    "newsletter_N8jVUY": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_3FAWim": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our newsletter tanjir next",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_td7xHD": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "email_form_aBWYQh": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_3FAWim",
+        "paragraph_td7xHD",
+        "email_form_aBWYQh"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "contact_form_6P7Ugc": {
       "type": "contact-form",
       "name": "t:sections.contact-form.presets.name",
@@ -492,6 +526,7 @@
     "heading_section_7kJznw",
     "collection_list_xzCHXX",
     "image_with_text_J9nDwD",
+    "newsletter_N8jVUY",
     "contact_form_6P7Ugc"
   ]
 }
