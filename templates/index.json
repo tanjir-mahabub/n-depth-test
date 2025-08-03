@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -5,7 +14,10 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": { "heading": "Image banner", "heading_size": "h0" }
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h0"
+          }
         },
         "text": {
           "type": "text",
@@ -26,7 +38,11 @@
           }
         }
       },
-      "block_order": ["heading", "text", "button"],
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
       "settings": {
         "image_overlay_opacity": 40,
         "image_height": "large",
@@ -57,7 +73,10 @@
           }
         }
       },
-      "block_order": ["heading", "text"],
+      "block_order": [
+        "heading",
+        "text"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -100,18 +119,29 @@
       "blocks": {
         "collection-0": {
           "type": "collection",
-          "settings": { "collection": "" }
+          "settings": {
+            "collection": ""
+          }
         },
         "product": {
           "type": "product",
-          "settings": { "product": "", "second_image": false }
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
         },
         "collection-1": {
           "type": "collection",
-          "settings": { "collection": "" }
+          "settings": {
+            "collection": ""
+          }
         }
       },
-      "block_order": ["collection-0", "product", "collection-1"],
+      "block_order": [
+        "collection-0",
+        "product",
+        "collection-1"
+      ],
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
@@ -168,7 +198,11 @@
           }
         }
       },
-      "block_order": ["column1", "column2", "column3"],
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -191,7 +225,10 @@
       "blocks": {
         "heading_TFyVDw": {
           "type": "heading",
-          "settings": { "heading": "Image with text", "heading_size": "h1" }
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
         },
         "text_PafC3q": {
           "type": "text",
@@ -209,7 +246,11 @@
           }
         }
       },
-      "block_order": ["heading_TFyVDw", "text_PafC3q", "button_9nanTW"],
+      "block_order": [
+        "heading_TFyVDw",
+        "text_PafC3q",
+        "button_9nanTW"
+      ],
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -224,6 +265,103 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_BCgd8x": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8bX8zx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tanjir is working here",
+            "heading_size": "h1"
+          }
+        },
+        "text_mjJ9iR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is a short description</p>",
+            "text_style": "body"
+          }
+        },
+        "button_33UFAT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8bX8zx",
+        "text_mjJ9iR",
+        "button_33UFAT"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/aloe-ultraricca-sx_ad77828c-1d6b-489c-ad3e-3aab2116447a.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_mGQR6r": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_cjCirT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Another Section With Our New Theme",
+            "heading_size": "h1"
+          }
+        },
+        "text_GUJGEe": {
+          "type": "text",
+          "settings": {
+            "text": "Another Section With Our New Theme Description",
+            "text_style": "body"
+          }
+        },
+        "buttons_tpzgFB": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cjCirT",
+        "text_GUJGEe",
+        "buttons_tpzgFB"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/beauty-products-and-flower.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -233,6 +371,8 @@
     "collage",
     "video",
     "multicolumn",
-    "image_with_text_g83MiT"
+    "image_with_text_g83MiT",
+    "image_with_text_BCgd8x",
+    "image_banner_mGQR6r"
   ]
 }
