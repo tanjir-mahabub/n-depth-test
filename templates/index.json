@@ -18,10 +18,6 @@
             "heading": "Image banner",
             "heading_size": "h0"
           }
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
-          }
         },
         "text": {
           "type": "text",
@@ -42,11 +38,6 @@
           }
         }
       },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
       "block_order": [
         "heading",
         "text",
@@ -82,10 +73,6 @@
           }
         }
       },
-      "block_order": [
-        "heading",
-        "text"
-      ],
       "block_order": [
         "heading",
         "text"
@@ -135,16 +122,9 @@
           "settings": {
             "collection": ""
           }
-          "settings": {
-            "collection": ""
-          }
         },
         "product": {
           "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
           "settings": {
             "product": "",
             "second_image": false
@@ -155,16 +135,8 @@
           "settings": {
             "collection": ""
           }
-          "settings": {
-            "collection": ""
-          }
         }
       },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
       "block_order": [
         "collection-0",
         "product",
@@ -231,11 +203,6 @@
         "column2",
         "column3"
       ],
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -262,10 +229,6 @@
             "heading": "Image with text",
             "heading_size": "h1"
           }
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
         },
         "text_PafC3q": {
           "type": "text",
@@ -283,11 +246,6 @@
           }
         }
       },
-      "block_order": [
-        "heading_TFyVDw",
-        "text_PafC3q",
-        "button_9nanTW"
-      ],
       "block_order": [
         "heading_TFyVDw",
         "text_PafC3q",
@@ -404,13 +362,6 @@
         "mobile_content_alignment": "center",
         "show_text_below": true
       }
-    },
-    "heading_section_KRnJMD": {
-      "type": "heading-section",
-      "name": "Heading Section",
-      "settings": {
-        "heading": "Welcome to Tanjir Store. Testing purpose"
-      }
     }
   },
   "order": [
@@ -422,7 +373,6 @@
     "multicolumn",
     "image_with_text_g83MiT",
     "image_with_text_BCgd8x",
-    "image_banner_mGQR6r",
-    "heading_section_KRnJMD"
+    "image_banner_mGQR6r"
   ]
 }
